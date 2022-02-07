@@ -9,4 +9,7 @@ The Clustered Column Chart ["Monthly sales"] has been drilled through on Page 2 
 
 
 Page 1 Screenshot:
+![Screenshot (52)](https://user-images.githubusercontent.com/72401565/152756578-b472663e-cf8f-466f-aca2-49f08aadbc76.png)
+
+
 
